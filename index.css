@@ -1,0 +1,20 @@
+h1{
+    color: orangered;
+    text-align: center;
+}
+
+#dpr{ 
+    text-align: center;
+    color: orangered;
+    font-size: small;
+    position: relative;
+    top: -2vw;
+ }
+
+ h2{ 
+    text-align: center;
+    color: orangered;
+  }
+span{
+    color: orangered;
+}
